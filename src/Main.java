@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("idea commit update");
         System.out.println("idea second commit");
+		 System.out.println("command first commit");
 
     }
 

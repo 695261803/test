@@ -6,6 +6,7 @@ public class Main {
         System.out.println("idea second commit");
 		 System.out.println("command first commit");
         System.out.println("idea second update");
+		System.out.println("command second commit");
 
     }
 
